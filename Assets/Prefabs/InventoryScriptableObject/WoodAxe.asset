@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a626e146429a4439b9f35768be736f91, type: 3}
+  m_Name: WoodAxe
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 5311174658050801337, guid: 4ebbfb78fa0b546b6a04978b8781febe, type: 3}
+  itemType: 3
+  itemName: Axe
+  icon: {fileID: 21300000, guid: cd5d4370d3b964b4cba50564dbd6f36b, type: 3}
+  maxAmount: 1
+  itemDescription: 
+  isConsumeable: 0
+  inHandName: WoodAxe
+  changeHealth: 0
+  changeHunger: 0
+  changeThirst: 0
+  healAmount: 0
